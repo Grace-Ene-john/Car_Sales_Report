@@ -23,3 +23,22 @@
 | C_CND_000003 | 1/2/2022 | Gianna        | Male   | 1,035,000     | Capitol KIA                            | Cadillac | Eldorado | Overhead Camshaft            | Manual       | Red   | 31,500    | 38701-8047 | Passenger  | 7298798 | Greenville    |
 
 ---
+
+## Tools Used
+- *Excel* → Pivot Tables & Sales Charts  
+- *SQL* → Querying and data analysis  
+- *GitHub* → Project documentation and portfolio showcase  
+
+---
+
+## Key Insights
+- *Total Revenue:* $672M across all sales records.  
+- *Top Performing Region:* Austin leads with *$117M in sales*.  
+- *Best Selling Body Style:* SUVs dominate with *6,374 units sold*.  
+- *Top 5 Locations by Revenue:* Austin, Janesville, Scottsdale, Aurora, and Pasco.  
+- *Transmission Split:* Automatic cars contribute *$355M, while manual cars generate **$316M*.  
+- *Gender Insights:* Male customers purchased significantly more cars ($527M vs $144M females**).  
+- *Top Models:* Models "Huge", "Down", and "Explain" generated the highest sales.  
+- *Car Colors:* Black and Pale White cars accounted for nearly *75% of total sales*.
+  
+---
