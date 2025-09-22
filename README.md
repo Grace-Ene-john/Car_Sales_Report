@@ -47,19 +47,20 @@
 
 
 
-sql
+```sql
 ---Total revenue by region---
 SELECT Dealer_Region, SUM(Price) AS TotalRevenue
 FROM car_sales
 GROUP BY Dealer_Region
 ORDER BY TotalRevenue DESC;
+```
 
-
-sql
+```sql
 ---Most popular car body style---
 SELECT BodyStyle, COUNT(*) AS TotalSold
 FROM car_sales
 GROUP BY BodyStyle
 ORDER BY TotalSold DESC;
+```
 
 ---
