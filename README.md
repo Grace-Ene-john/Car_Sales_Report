@@ -81,3 +81,7 @@ ORDER BY TotalSold DESC;
 ```
 
 ---
+## Profile
+- **Name:** Grace Ene John
+- **Emaill:** enejohn5555@gmail.com
+- **LinkedIn:** [Grace-John](https://www.linkedin.com/in/grace-john-b8b622380/)
