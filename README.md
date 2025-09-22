@@ -8,6 +8,15 @@
 - [SQL Queries](#-sql-queries)
 - [Profile](#-profile)
 
+## Project Overview
+
+This project provides insights into car sales data using Excel (Pivot Tables & Charts), SQL, and Power BI.
+The dataset contains customer demographics, car specifications, dealer information, and sales performance across regions.
+The analysis highlights key trends in customer preferences, sales volume distribution, and regional performance metrics.
+SQL was used for querying and cleaning raw data, while Excel supported quick summaries and visualizations.
+Power BI brought all insights together in an interactive dashboard, enabling deeper exploration and decision-making.
+
+---
 
 ## Dataset Overview
 - *Source:* [Car Sales Report – Kaggle](https://www.kaggle.com/datasets/missionjee/car-sales-report)  
