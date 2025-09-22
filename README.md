@@ -42,3 +42,24 @@
 - *Car Colors:* Black and Pale White cars accounted for nearly *75% of total sales*.
   
 ---
+
+## SQL Queries
+
+
+
+sql
+---Total revenue by region---
+SELECT Dealer_Region, SUM(Price) AS TotalRevenue
+FROM car_sales
+GROUP BY Dealer_Region
+ORDER BY TotalRevenue DESC;
+
+
+sql
+---Most popular car body style---
+SELECT BodyStyle, COUNT(*) AS TotalSold
+FROM car_sales
+GROUP BY BodyStyle
+ORDER BY TotalSold DESC;
+
+---
