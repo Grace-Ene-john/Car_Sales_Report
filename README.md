@@ -38,14 +38,15 @@
 - *Top 5 Locations by Revenue:* Austin, Janesville, Scottsdale, Aurora, and Pasco.  
 - *Transmission Split:* Automatic cars contribute *$355M, while manual cars generate **$316M*.  
 - *Gender Insights:* Male customers purchased significantly more cars ($527M vs $144M females**).  
-- *Top Models:* Models "Huge", "Down", and "Explain" generated the highest sales.  
+- *Top Models:* Models "Huge", "Down", and "Explain" generated the highest sales. 
+
 - *Car Colors:* Black and Pale White cars accounted for nearly *75% of total sales*.
   
 ---
 ## Visualization
 
 ### Charts
-
+ <img width="1305" height="498" alt="Screenshot 2025-09-22 102341" src="https://github.com/user-attachments/assets/355df76a-fe0d-46ba-a7b9-bb400264a7ea" />
 
 
 ---
