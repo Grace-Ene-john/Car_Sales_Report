@@ -42,6 +42,12 @@
 - *Car Colors:* Black and Pale White cars accounted for nearly *75% of total sales*.
   
 ---
+## Visualization
+
+### Charts
+![WhatsApp Image 2025-09-22 at 10 15 58_012b80fb](https://github.com/user-attachments/assets/8f422d8e-05e0-4742-8b8f-c3df4a25eb9e)
+
+---
 
 ## SQL Queries
 
